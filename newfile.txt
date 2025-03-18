@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 New changes
+=======
+New changes
+New changes in new branch
+>>>>>>> my-new-branch
